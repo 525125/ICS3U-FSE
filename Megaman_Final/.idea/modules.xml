@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://E:/Comp Sci FSE More Levels/.idea/Comp Sci FSE.iml" filepath="E:/Comp Sci FSE More Levels/.idea/Comp Sci FSE.iml" />
+      <module fileurl="file://E:/Gravity/.idea/Gravity.iml" filepath="E:/Gravity/.idea/Gravity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Megaman_Final.iml" filepath="$PROJECT_DIR$/.idea/Megaman_Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bomb wait/.idea/bomb wait.iml" filepath="$PROJECT_DIR$/../../bomb wait/.idea/bomb wait.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../mask move/.idea/mask move.iml" filepath="$PROJECT_DIR$/../../mask move/.idea/mask move.iml" />
+      <module fileurl="file://E:/scroll/.idea/scroll.iml" filepath="E:/scroll/.idea/scroll.iml" />
+    </modules>
+  </component>
+</project>
